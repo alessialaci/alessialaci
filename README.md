@@ -7,10 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alessia-lacitignola-70371b150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alessia-lacitignola-70371b150" height="30" width="40" /></a>
-<a href="https://fb.com/alessia lacitignola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alessia lacitignola" height="30" width="40" /></a>
-<a href="https://instagram.com/alelacitignola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alelacitignola" height="30" width="40" /></a>
-<a href="https://discord.gg/Alessia Lacitignola#7216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Alessia Lacitignola#7216" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alessia-lacitignola-70371b150" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alessia-lacitignola-70371b150" height="30" width="40" /></a>
+<a href="https://fb.com/alessia lacitignola" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alessia lacitignola" height="30" width="40" /></a>
+<a href="https://instagram.com/alelacitignola" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alelacitignola" height="30" width="40" /></a>
+<a href="https://discord.gg/Alessia Lacitignola#7216" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Alessia Lacitignola#7216" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
