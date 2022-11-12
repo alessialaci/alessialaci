@@ -24,4 +24,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alessialaci&show_icons=true&title_color=fb8c01&text_color=ffffff&bg_color=151515&locale=en" alt="alessialaci" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alessialaci&theme=default" alt="alessialaci" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alessialaci&theme=dark" alt="alessialaci" /></p>
