@@ -3,9 +3,9 @@
 
 ## About me
   
-<img align="right" alt="Gif of mini-me, made by me" src="img/Mini-me-gif.gif" height="270" />
+<img align="right" alt="Gif of mini-me, made by me" src="img/Mini-me-gif.gif" height="250" />
 
-- 🌍 From Italy  
+- 🌍 Italy  
   
 - 👧🏽 24 y.o.  
   
