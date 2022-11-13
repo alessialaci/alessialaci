@@ -1,15 +1,21 @@
-# <div align="center">Hi 👋 I'm Alessia Lacitignola</div>  
+# <div align="center">Hi 👋 I'm Alessia!</div>
+
+## About me
   
 
-<div align="center">
-  <img src="img/Mini-me-gif.gif" align="center" height="" width="300" />
-</div>
-  
 
 - 🌍 From Italy  
   
 
+- 👧🏽 24 y.o.  
+  
+
 - 📒 I’m currently studing at [**Epicode School**](https://epicode.com/) to become a Full-Stack Developer!  
+  
+
+- ⚡ Fun fact: I always use the Caps Lock key instead of Shift key to make capital letters  
+
+ <img align="right" alt="GIF" src="img/mini-me-gif.gif" height="300" />
 
 <br/>  
 
