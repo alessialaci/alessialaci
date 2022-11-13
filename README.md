@@ -9,7 +9,7 @@
   
 - 👧🏽 24 y.o.  
   
-- 📒 I’m currently studing at [**Epicode School**](https://epicode.com/) to become a Full-Stack Developer!  
+- 📒 I’m currently studing at <a href="https://epicode.com" target="_blank" title="Go to Epicode School website">Epicode School</a> to become a Full-Stack Developer!  
   
 - ⚡ Fun fact: I always use the Caps Lock key instead of Shift key to make capital letters  
 
