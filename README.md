@@ -1,23 +1,22 @@
-# <div align="center">Hi! I'm Alessia 👋🏽</div>  
+# <div align="center">Ciao! Sono Alessia 👋🏽</div>  
   
 
-## About me
+## Su di me
   
 <img align="right" alt="Gif of mini-me, made by me" src="img/Mini-me-gif.gif" height="250" />
 
-- 🌍 Italy  
+- 🌍 Puglia, Italia  
   
-- 👧🏽 24 y.o.  
+- 👧🏽 24 anni  
   
-- 📒 I’m currently studing at <a href="https://epicode.com" target="_blank" title="Go to Epicode School website">Epicode School</a> to become a Full-Stack Developer!  
+- 📒 Al momento studio alla <a href="https://epicode.com" target="_blank" title="Go to Epicode School website">Epicode School</a> per diventare Full-Stack Developer!
   
-- ⚡ Fun fact: I always use the Caps Lock key instead of Shift key to make capital letters  
 
 
 <br/>  
 
 
-## My Skill Set  
+## Le mie Skill  
 
 <div align="center">
 <table><tr><td valign="top" width="50%">
@@ -50,7 +49,7 @@
 <br/>  
 
 
-## Connect with me  
+## Contatti  
 
 <div align="center">
 <a href="https://linkedin.com/in/alessia-lacitignola-70371b150" target="_blank">
@@ -66,7 +65,7 @@
   
 <br/>  
 
-<div align="center">📫 Or send me an email to <a href="mailto:alessia_lacitignola@libero.it" target="_blank">alessia_lacitignola@libero.it</a></div>  
+<div align="center">📫 Oppure inviami un'email all'indirizzo <a href="mailto:alessia_lacitignola@libero.it" target="_blank">alessia_lacitignola@libero.it</a></div>  
   
 
 <br/>  
