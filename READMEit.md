@@ -5,7 +5,7 @@
   
 <img align="right" alt="Gif of mini-me, made by me" src="img/Mini-me-gif.gif" height="250" />
 
-- 🌍 Italia  
+- 🌍 Puglia, Italia  
   
 - 👧🏽 24 anni  
   
