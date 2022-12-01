@@ -9,7 +9,7 @@
   
 - 👧🏽 24 anni  
   
-- 📒 Al momento studio alla <a href="https://epicode.com" target="_blank" title="Go to Epicode School website">Epicode School</a> per diventare Full-Stack Developer!
+- 📒 Studentessa Full-Stack Developer alla <a href="https://epicode.com" target="_blank" title="Go to Epicode School website">Epicode School</a>.
   
 
 
