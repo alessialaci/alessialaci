@@ -9,7 +9,7 @@
   
 - 👧🏽 24 anni  
   
-- 📒 Studentessa Full-Stack Developer alla <a href="https://epicode.com" target="_blank" title="Go to Epicode School website">Epicode School</a>.
+- 📒 Studentessa Full-Stack Developer alla <a href="https://epicode.com" target="_blank" title="Go to Epicode School website">Epicode School</a>
   
 
 
